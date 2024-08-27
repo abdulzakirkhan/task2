@@ -73,7 +73,9 @@ body {
   background-color: var(--background-color) !important;
   font-family: var(--default-font);
 }
-
+textarea{
+  resize: none;
+}
 a {
   color: var(--accent-color);
   text-decoration: none;
